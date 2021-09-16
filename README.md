@@ -5,3 +5,4 @@
 
 [![CI](https://github.com/Kalyanimaddhala/Embedded-c/actions/workflows/build.yml/badge.svg)](https://github.com/Kalyanimaddhala/Embedded-c/actions/workflows/build.yml)
 
+[![Git Inspector](https://github.com/Kalyanimaddhala/Embedded-c/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Kalyanimaddhala/Embedded-c/actions/workflows/gitinspector.yml)
