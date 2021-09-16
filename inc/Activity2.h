@@ -3,7 +3,7 @@
 
 /**
  * @file Activity2.h
- * @author kalyani (kalyanilucky1805@gmail.com)
+ * @author kalyani (you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-09-16
