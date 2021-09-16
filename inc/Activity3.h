@@ -1,4 +1,5 @@
-
+#ifndef __ACTIVITY_3_H__
+#define __ACTIVITY_3_H__
 
 /**
  * @file Activity3.h

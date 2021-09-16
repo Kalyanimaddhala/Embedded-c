@@ -1,4 +1,4 @@
-name: Compile-Windows
+name: Compile-Linux
 
 on:
   push:

@@ -9,8 +9,8 @@
  * 
  */
 
-#include "activity3.h"
-#include "activity2.h"
+#include "Activity3.h"
+#include "Activity2.h"
 
 void InitTimer()
 {
